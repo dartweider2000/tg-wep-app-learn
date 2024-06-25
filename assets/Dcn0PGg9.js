@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as t,p as c,e as a,a as _}from"./DYAfdMvS.js";const n={},d=e=>(c("data-v-60831cb6"),e=e(),a(),e),p={class:"main-page"},r=d(()=>_("button",{class:"main-page__button",style:{cursor:"pointer"}},"Кнопка",-1)),i=[r];function l(e,u){return t(),s("div",p,i)}const h=o(n,[["render",l],["__scopeId","data-v-60831cb6"]]);export{h as default};
